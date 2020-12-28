@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<hack>\/main.json}"
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_hack}"
                 }],
          "type":"tilelayer",
          "visible":true,
