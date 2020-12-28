@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-south.json#start_dev-base}"
+                 "value":"{<hack>\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
