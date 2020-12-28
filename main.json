@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<hack>\/main.json"
+                 "value":"{<hack>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"jitsiroom",
                  "type":"string",
-                 "value":"shared_alle_instanzen_jitsi"
+                 "value":"TempleOfTheMobyHackTschunkTime"
                 }],
          "type":"tilelayer",
          "visible":true,
